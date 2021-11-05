@@ -97,20 +97,25 @@ img.feature {
     img.feature {
         margin-left: 5%;
     }
+    
     h1 {
         font-size: 24pt;
+        text-align: start;
     }
 
     h2 {
         font-size: 20pt;
+        text-align: start;
     }
 
     h3 {
         font-size: 14pt;
+        text-align: start;
     }
 
     p {
         font-size: 12pt;
+        text-align: start;
     }
 }
 /* Attribution Styles */
