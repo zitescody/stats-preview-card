@@ -28,8 +28,11 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
+<img width="1581" alt="Screen Shot 2021-11-05 at 11 17 39" src="https://user-images.githubusercontent.com/49009141/140534695-931e43e0-8005-43a4-8283-2776f05b6cb4.png">
 
+<img width="838" alt="Screen Shot 2021-11-05 at 11 17 52" src="https://user-images.githubusercontent.com/49009141/140534714-36002a19-b5be-4614-94d8-a78f538c3405.png">
 
+<img width="430" alt="Screen Shot 2021-11-05 at 11 18 03" src="https://user-images.githubusercontent.com/49009141/140534731-fc0d2a5e-674e-4e39-89b0-291b828760e4.png">
 
 ### Links
 
@@ -37,44 +40,24 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+1.) Mockup
+2.) Mobile Design
+3.) Tablet Design
+4.) Desktop Design
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
+I continued building on the foundations of responsive web design. I also learned how to utilize flex-direction to manipulate elements in a container more fluidly.
 
 ### Continued development
-
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+I want to learn more about placing overlays over images. I couldn't quite crack the code on this one. Looking into future development to see how to do this.
 
 
 ## Author
