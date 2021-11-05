@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/zitescody/stats-preview-card)
+- Live Site URL: [Live site](https://zitescody.github.io/stats-preview-card/)
 
 ## My process
 1.) Mockup
